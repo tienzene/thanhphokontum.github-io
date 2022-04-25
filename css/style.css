@@ -213,6 +213,7 @@ body {
 }
 #content-service .box-service {
     display: inline-block;
+    width: 100%;
     border: 2px solid rgb(181, 190, 178);
     padding: 15px;
     margin: 15px 0;
